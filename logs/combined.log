@@ -1,0 +1,16 @@
+{"level":"info","message":"Calculator microservice running at http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Addition requested: 10 + 5","service":"calculator-microservice"}
+{"level":"info","message":"Calculator microservice running at http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Addition requested: 10 + 5","service":"calculator-microservice"}
+{"level":"info","message":"Addition requested: abc + 5","service":"calculator-microservice"}
+{"level":"error","message":"Invalid numbers for addition","service":"calculator-microservice"}
+{"level":"info","message":"Calculator microservice running at http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Addition requested: 10 + 5","service":"calculator-microservice"}
+{"level":"info","message":"Subtraction requested: 10 - 5","service":"calculator-microservice"}
+{"level":"info","message":"Multiplication requested: 10 * 5","service":"calculator-microservice"}
+{"level":"info","message":"Division requested: 10 / 5","service":"calculator-microservice"}
+{"level":"info","message":"Power requested: 2 ^ 3","service":"calculator-microservice"}
+{"level":"info","message":"Square root requested: √25","service":"calculator-microservice"}
+{"level":"info","message":"Modulo requested: 10 % 3","service":"calculator-microservice"}
+{"level":"info","message":"Power requested: abc ^ 2","service":"calculator-microservice"}
+{"level":"error","message":"Invalid numbers for power","service":"calculator-microservice"}

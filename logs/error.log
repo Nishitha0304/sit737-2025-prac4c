@@ -1,0 +1,2 @@
+{"level":"error","message":"Invalid numbers for addition","service":"calculator-microservice"}
+{"level":"error","message":"Invalid numbers for power","service":"calculator-microservice"}
